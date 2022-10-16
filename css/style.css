@@ -1,5 +1,5 @@
 .container {
-	background: url(../img/doroga_s_boku.jpg);
+	background: url(../img/doroga_s_boku.jpg) no-repeat;
    padding: 400px;
 	
 }
